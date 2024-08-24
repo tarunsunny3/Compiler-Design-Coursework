@@ -1,0 +1,3 @@
+gcc macro.c
+./a.out input.c (for linux)
+./a.exe input.c (for windows)

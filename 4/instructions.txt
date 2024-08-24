@@ -1,0 +1,3 @@
+gcc remove_left_recursion.c
+./a.out input.txt (for linux)
+./a.exe input.txt (for windows)

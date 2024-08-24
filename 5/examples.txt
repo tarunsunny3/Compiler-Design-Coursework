@@ -1,0 +1,39 @@
+A abc
+A def
+A ghi
+
+S TA
+A +TA
+A #
+T FB
+B *FB
+B #
+F (S)
+F i
+
+S aBDh
+B cC
+C bC
+C #
+D EF
+E g
+E #
+F f
+F #
+
+S AaAb
+S BbBa
+A #
+B #
+
+S iCtSA
+S a
+A eS
+A #
+C b
+
+S ASb
+S C
+A a
+C cC
+C #

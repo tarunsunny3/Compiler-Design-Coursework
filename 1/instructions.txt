@@ -1,0 +1,3 @@
+gcc remove_comments.c
+./a.out input.c output.c (for linux)
+./a.exe input.c output.c (for windows)

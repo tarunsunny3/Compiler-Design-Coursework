@@ -1,0 +1,8 @@
+S TA
+A +TA
+A #
+T FB
+B *FB
+B #
+F (S)
+F i

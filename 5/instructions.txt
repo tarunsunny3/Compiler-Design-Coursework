@@ -1,0 +1,4 @@
+Running the program
+gcc predictive_parser.c
+./a.out input.txt (for linux)
+./a.exe input.txt (for windows)

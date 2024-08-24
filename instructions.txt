@@ -1,0 +1,9 @@
+Compiler Design Programming Assignment
+
+- Codes are written in corresponding folder number corresponding to question numbers.
+
+- Some questions are test on multiple test cases and they can be found in the respective folders with the file name "examples.txt".
+
+- Copy one example from the examples file, and paste in the "input.txt" file and follow "instructions.txt" file.
+
+- All terminals and non-terminals are assumed to be single characters. The codes are written to read only one character. 

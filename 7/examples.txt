@@ -1,0 +1,19 @@
+S S+T
+S T
+T T*F
+T F
+F (S)
+F i
+
+S L=R
+S R
+L *R
+L i
+R L
+
+S SbA
+S A
+A AcB
+A B
+B dSe
+B a

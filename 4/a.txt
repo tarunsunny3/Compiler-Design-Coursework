@@ -1,0 +1,7 @@
+A ACBd
+A Aa
+A a
+B Be
+B Ab
+C cde
+.

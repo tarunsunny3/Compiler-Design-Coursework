@@ -1,0 +1,3 @@
+gcc token.c comments.c
+./a.out input.c (for linux)
+./a.exe input.c (for windows)

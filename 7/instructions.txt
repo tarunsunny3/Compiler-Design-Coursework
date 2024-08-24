@@ -1,0 +1,4 @@
+Running the program
+gcc SLR_parser.c
+./a.out input.txt <input_string> (for linux)
+./a.exe input.txt <input_string> (for windows)
